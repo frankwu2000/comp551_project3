@@ -13,8 +13,8 @@ it will output the prediction result of the test set to file
 ```
 kaggle_logistic_output.csv
 ```
-
----
+(which takes 12 hours to run)
+--- 
 
 **Fully Connected Feedforward Neural Network**
 
@@ -27,6 +27,7 @@ it will output the prediction result of the test set to file
 .csv
 ```
 
+(which takes 12 hours to run)
 ---
 
 **Convolution Neural Network**
